@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola
+
+ I'm currently studying computer science at the U of M and currently working on making a game in python but I've worked on other stuff like made some python scripts for utility like an automatic email sender,
+ a past paper search engine for A-level students, and attempted to fiddle with developing add ons for the graphic calculator the CG50 from Casio as you could probably tell by my forked repos.
 
 <!--
 **Torveq/Torveq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
